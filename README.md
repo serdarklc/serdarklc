@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Serdar KILIÇ
+Hello 🌎; I'm Serdar KILIÇ
 ====================================================================================================================================
 
 SDET. QA Automation Engineer.
@@ -11,7 +11,8 @@ Experienced SDET specializing in developing and implementing automated testing s
 * 🚀  I'm currently working on [Herakles](http://theherakles.com/)
 * 🧠  I'm learning cypress and javascript
 * 🤝  I'm open to collaborating on I’m looking for help with Appium mobile testin
-* ⚡  I'm QA Engineer with experienced like Project Manager and Business Analyst
+* ⚡  I'm QA Engineer with experienced like Project Manager and Business Analyst![MondayMorningGIF](https://user-images.githubusercontent.com/50462249/215575024-9b32bffe-5f1b-41ab-9fe9-1f61fde9f4bc.gif)
+
 
 ### Skills
 
