@@ -11,7 +11,7 @@ Experienced SDET specializing in developing and implementing automated testing s
 * 🚀  I'm currently working on [Herakles](http://theherakles.com/)
 * 🧠  I'm learning cypress and javascript
 * 🤝  I'm open to collaborating on I’m looking for help with Appium mobile testin
-* ⚡  I'm QA Engineer with experienced like Project Manager and Business Analyst![MondayMorningGIF](https://user-images.githubusercontent.com/50462249/215575024-9b32bffe-5f1b-41ab-9fe9-1f61fde9f4bc.gif)
+* ⚡  I'm QA Engineer with experienced like Project Manager and Business Analyst!
 
 
 ### Skills
