@@ -10,7 +10,7 @@ Software Development Engineer in Test (SDET) with a focus on developing and impl
 * ✉️  You can contact me at [serdar.kiliq@gmail.com](mailto:serdar.kiliq@gmail.com)
 * 🚀  I'm currently working on [Herakles](http://theherakles.com/)
 * 🧠  I'm learning Cypress and Javascript
-* 🤝  I'm open to collaborating on I’m looking for help with Appium mobile testin
+* 🤝  I'm open to collaborating on I’m looking for help with Appium mobile testing
 * ⚡  I'm QA Engineer with experienced like Project Manager and Business Analyst!
 
 
