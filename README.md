@@ -4,12 +4,12 @@ Hello 🌎; I'm Serdar KILIÇ
 SDET. QA Automation Engineer.
 ---------
 
-Experienced SDET specializing in developing and implementing automated testing solutions using Python, Selenium, and Pytest. Focused on delivering high-quality software and improving the testing process.
+Software Development Engineer in Test (SDET) with a focus on developing and implementing automated testing solutions. Skilled in scripting languages such as Java and experienced in using testing frameworks such as Selenium and Cypress. Adept in test case design, test execution, and bug reporting. Committed to ensuring high-quality software delivery and improving the overall testing process.
 
 * 🌍  I'm based in Istanbul
 * ✉️  You can contact me at [serdar.kiliq@gmail.com](mailto:serdar.kiliq@gmail.com)
 * 🚀  I'm currently working on [Herakles](http://theherakles.com/)
-* 🧠  I'm learning cypress and javascript
+* 🧠  I'm learning Cypress and Javascript
 * 🤝  I'm open to collaborating on I’m looking for help with Appium mobile testin
 * ⚡  I'm QA Engineer with experienced like Project Manager and Business Analyst!
 
