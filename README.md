@@ -1,7 +1,7 @@
 Hello 🌎; I'm Serdar KILIÇ
 ====================================================================================================================================
 
-SDET. QA Automation Engineer.
+SDET. Full Stack QA Engineer.
 ---------
 
 Software Development Engineer in Test (SDET) with a focus on developing and implementing automated testing solutions. Skilled in scripting languages such as Java and experienced in using testing frameworks such as Selenium and Cypress. Adept in test case design, test execution, and bug reporting. Committed to ensuring high-quality software delivery and improving the overall testing process.
