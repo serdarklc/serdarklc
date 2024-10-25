@@ -4,7 +4,7 @@ Hello 🌎; I'm Serdar KILIÇ
 SDET. Full Stack QA Engineer.
 ---------
 
-Software Development Engineer in Test (SDET) with a focus on developing and implementing automated testing solutions. Skilled in scripting languages such as Java and experienced in using testing frameworks such as Selenium and Cypress. Adept in test case design, test execution, and bug reporting. Committed to ensuring high-quality software delivery and improving the overall testing process.
+Software Development Engineer in Test (SDET) with a focus on developing and implementing automated testing solutions. Skilled in scripting languages such as Java, Python and experienced in using testing frameworks such as Selenium, Playwright and Cypress. Adept in test case design, test execution, monitoring, and bug reporting. Committed to ensuring high-quality software delivery and improving the overall testing process.
 
 * 🌍  I'm based in Istanbul
 * ✉️  You can contact me at [serdar.kiliq@gmail.com](mailto:serdar.kiliq@gmail.com)
