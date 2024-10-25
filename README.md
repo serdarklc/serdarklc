@@ -16,6 +16,19 @@ Software Development Engineer in Test (SDET) with a focus on developing and impl
 
 ### Skills
 
+**Skills:**
+**UI:** Selenium, Playwright
+**API:** Postman, REST Assured
+**DATABASE:** SQL, JDBC, DBeaver
+**Programming Language:** Java, Python
+**Framework:** Page Object Model(POM), Singleton, TestNG, JUnit, Cucumber, Gherkin, Robot
+**Cloud System:** Amazon Web Services (AWS), Azure
+**CICD Tool:** Jenkins, Maven
+**Repository System:** Git, GitHub, Bitbucket
+**Testing Approach:** SAFe Kanban, Scrum Agile Methodology, SDLC, STLC
+**Test Management:** Jira, ClickUp, Octane
+**Monitoring:** Kibana, Splunk
+**Interest:** Cypress, Appium, JMeter
 
 <p align="left">
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
