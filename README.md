@@ -1,61 +1,64 @@
-Hello 🌎; I'm Serdar KILIÇ
-====================================================================================================================================
+# Serdar KILIC - Full Stack QA Engineer | SDET Specialist
 
-SDET. Full Stack QA Engineer.
----------
+Experienced SDET and Full Stack QA Engineer, specializing in automation frameworks such as Selenium, Playwright, and Cypress, with expertise in test design, execution, and reporting. Passionate about delivering high-quality software and improving overall testing processes.
 
-Software Development Engineer in Test (SDET) with a focus on developing and implementing automated testing solutions. Skilled in scripting languages such as Java, Python and experienced in using testing frameworks such as Selenium, Playwright and Cypress. Adept in test case design, test execution, monitoring, and bug reporting. Committed to ensuring high-quality software delivery and improving the overall testing process.
+## 📌 Key Highlights
 
-* 🌍  I'm based in Istanbul
-* ✉️  You can contact me at [serdar.kiliq@gmail.com](mailto:serdar.kiliq@gmail.com)
-* 🧠  I'm learning Playwright and Typescript
-* 🧑‍💻  I'm getting experience of python with robot framework
-* 🤝  I'm open to collaborating on I’m looking for help with Appium mobile testing
-* ⚡  I'm QA Engineer with experienced like Project Manager and Business Analyst!
+- 🌍 Located in Istanbul, available for global opportunities.
+- 🔧 Currently enhancing expertise in Playwright and Typescript.
+- 🧪 Gaining hands-on experience in Python with the Robot Framework.
+- 📱 Seeking collaboration opportunities, particularly in Appium mobile testing.
+- 🎯 Skilled QA Engineer with experience in project management and business analysis.
+
+---
+
+## 🛠 Skills
+
+- **UI Testing**: Selenium, Playwright  
+  ![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white) ![Playwright](https://img.shields.io/badge/-Playwright-2C2E83?style=flat-square&logo=playwright&logoColor=white)  
+- **API Testing**: Postman, REST Assured  
+  ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![REST Assured](https://img.shields.io/badge/-REST%20Assured-2C2E83?style=flat-square&logo=restassured&logoColor=white)  
+- **Databases**: SQL, JDBC, DBeaver  
+  ![SQL](https://img.shields.io/badge/-SQL-CC2927?style=flat-square&logo=MicrosoftSQLServer&logoColor=white) ![DBeaver](https://img.shields.io/badge/-DBeaver-3776AB?style=flat-square&logo=DBeaver&logoColor=white)  
+- **Programming Languages**: Java, Python  
+  ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)  
+- **Frameworks**: Page Object Model (POM), Singleton, TestNG, JUnit, Cucumber, Gherkin, Robot  
+  ![JUnit](https://img.shields.io/badge/-JUnit-25A162?style=flat-square&logo=junit5&logoColor=white) ![Cucumber](https://img.shields.io/badge/-Cucumber-43B02A?style=flat-square&logo=cucumber&logoColor=white) ![Robot](https://img.shields.io/badge/-Robot%20Framework-000000?style=flat-square&logo=robotframework&logoColor=white)  
+- **Cloud Systems**: Amazon Web Services (AWS), Azure  
+  ![AWS](https://img.shields.io/badge/-AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white) ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)  
+- **CI/CD Tools**: Jenkins, Maven  
+  ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white) ![Maven](https://img.shields.io/badge/-Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)  
+- **Version Control**: Git, GitHub, Bitbucket  
+  ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Bitbucket](https://img.shields.io/badge/-Bitbucket-0052CC?style=flat-square&logo=bitbucket&logoColor=white)  
+- **Testing Approaches**: SAFe, Kanban, Scrum, Agile Methodology, SDLC, STLC  
+  ![Scrum](https://img.shields.io/badge/-Scrum-6DB33F?style=flat-square&logo=scrumalliance&logoColor=white)  
+- **Test Management**: Jira, ClickUp, Octane  
+  ![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=jira&logoColor=white) ![ClickUp](https://img.shields.io/badge/-ClickUp-7B68EE?style=flat-square&logo=clickup&logoColor=white)  
+- **Monitoring**: Kibana, Splunk  
+  ![Kibana](https://img.shields.io/badge/-Kibana-005571?style=flat-square&logo=kibana&logoColor=white) ![Splunk](https://img.shields.io/badge/-Splunk-000000?style=flat-square&logo=splunk&logoColor=white)  
+- **Interests**: Cypress, Appium, JMeter  
+  ![Cypress](https://img.shields.io/badge/-Cypress-17202C?style=flat-square&logo=cypress&logoColor=white) ![Appium](https://img.shields.io/badge/-Appium-DC382D?style=flat-square&logo=appium&logoColor=white) ![JMeter](https://img.shields.io/badge/-JMeter-D22128?style=flat-square&logo=apachejmeter&logoColor=white)  
+
+---
+
+## 🌐 Socials
+
+- [LinkedIn](https://www.linkedin.com/in/serdar-kiliq/)
+- [GitHub](https://github.com/serdarklc)
+
+---
+
+## 📊 GitHub Stats
+
+![Serdar KILIÇ's GitHub Stats](https://github-readme-stats.vercel.app/api?username=serdarklc&show_icons=true&theme=light)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=serdarklc&layout=compact&langs_count=8&hide=html,css&theme=light)
 
 
-### Skills
+---
 
-**Skills:**
-**UI:** Selenium, Playwright
-**API:** Postman, REST Assured
-**DATABASE:** SQL, JDBC, DBeaver
-**Programming Language:** Java, Python
-**Framework:** Page Object Model(POM), Singleton, TestNG, JUnit, Cucumber, Gherkin, Robot
-**Cloud System:** Amazon Web Services (AWS), Azure
-**CICD Tool:** Jenkins, Maven
-**Repository System:** Git, GitHub, Bitbucket
-**Testing Approach:** SAFe Kanban, Scrum Agile Methodology, SDLC, STLC
-**Test Management:** Jira, ClickUp, Octane
-**Monitoring:** Kibana, Splunk
-**Interest:** Cypress, Appium, JMeter
+## 📧 Contact
 
-<p align="left">
-<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://www.postman.com/" target="_blank" rel="noreferrer"><img src="https://camo.githubusercontent.com/3f0e26b0951bab845a1bb9a7198ecca0da272e462921b6edd85879f3673b6927/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506f73746d616e2d4646364333373f7374796c653d666f722d7468652d6261646765266c6f676f3d706f73746d616e266c6f676f436f6c6f723d7768697465" width="100" height="36" alt="Postman" /></a>
-<a href="https://aws.amazon.com/?nc2=h_lg" target="_blank" rel="noreferrer"><img src="https://camo.githubusercontent.com/9281daa5684971fd3325661e3dd5fea86b21a902e3741a556fb636fbf0e2f3d4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4157532d2532334646393930302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d616d617a6f6e2d617773266c6f676f436f6c6f723d7768697465" width="90" height="36" alt="AWS" /></a> 
-<a href="https://www.jenkins.io/" target="_blank" rel="noreferrer"><img src="https://camo.githubusercontent.com/ed03748e95f8b14c77f71b5833e08c0859c72f3ca1bc7f31d6ed1f018db4d845/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a656e6b696e732d2532333243353236332e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6a656e6b696e73266c6f676f436f6c6f723d7768697465" width="90" height="36" alt="Jenkins" /></a>
-<a href="https://maven.apache.org/" target="_blank" rel="noreferrer"><img src="https://camo.githubusercontent.com/b52f767e323c38d0911c0ceceec21b9624b948fd526266170bf93886f3f2a8ca/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4170616368652532304d6176656e2d4337314133363f7374796c653d666f722d7468652d6261646765266c6f676f3d4170616368652532304d6176656e266c6f676f436f6c6f723d7768697465" width="90" height="36" alt="Maven" /></a>
-<a href="" target="_blank" rel="noreferrer"><img src="https://camo.githubusercontent.com/28577ff4dc7abd641b91f419821ba341bc1ad5037e5dfff20f9209a7f5465759/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d537761676765722d253233436c6f6a7572653f7374796c653d666f722d7468652d6261646765266c6f676f3d73776167676572266c6f676f436f6c6f723d7768697465" width="90" height="36" alt="Swagger" /></a>
-<a href="" target="_blank" rel="noreferrer"><img src="https://camo.githubusercontent.com/35e11e06e4198d1ade41f868a377efe1abc0d85078f92d55c078b972d4240ae8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a6972612d2532333041304646462e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6a697261266c6f676f436f6c6f723d7768697465" width="90" height="36" alt="Swagger" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://www.oracle.com/uk/index.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/oracle-colored.svg" width="36" height="36" alt="Oracle" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-<a href="" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" width="36" height="36" alt="SQL" /></a>
-</p>
+Feel free to reach out via email:
 
-
-### Socials
-
-<p align="left"> <a href="https://www.github.com/serdarklc" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/serdar-kiliq/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
-
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/serdarklc"><img src="https://github-readme-stats.vercel.app/api?username=serdarklc&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=64748b&icon_color=0891b2&bg_color=ffffff&hide_border=true&show_icons=true" alt="serdarklc's GitHub stats" /></a>
-
-<a href="http://www.github.com/serdarklc"><img src="https://github-readme-streak-stats.herokuapp.com/?user=serdarklc&stroke=64748b&background=ffffff&ring=0891b2&fire=0891b2&currStreakNum=64748b&currStreakLabel=0891b2&sideNums=64748b&sideLabels=64748b&dates=64748b&hide_border=true" /></a>
-
-<a href="https://github.com/serdarklc" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=serdarklc&langs_count=10&title_color=0891b2&text_color=64748b&icon_color=0891b2&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+- **Email**: serdar.kiliq@gmail.com  
+- **Location**: Istanbul, Turkey
